@@ -1,0 +1,5 @@
+function,input,output
+xuatChuoiNhiPhan,-10,-1
+laPalindrome,-100,FALSE
+laSoNguyenTo,19,TRUE
+tongSoNguyenTo,100,1060
