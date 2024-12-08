@@ -1,0 +1,5 @@
+openpyxl==3.1.2
+timeout-decorator==0.5.0
+chardet==5.2.0
+timeout-decorator==0.5.0
+pandas==2.2.1
