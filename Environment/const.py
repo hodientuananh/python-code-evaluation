@@ -1,0 +1,10 @@
+EVALUATION_TEST_DB = 'evaluation_test.db'
+EVALUATION_USER_INPUT_CSV = 'user_test_function.csv'
+EVALUATION_TABLE_NAME = 'test'
+
+TEST_RESULT_FILE = "summary.xlsx"
+TEST_SHEET_NAME = 'Result'
+TEST_STUDENT_EXAM_FOL = 'solutions'
+TEST_TIMEOUT_DURATION = 1
+TEST_TIMEOUT_SIGNAL = 3
+TEST_LOGGING_FILE = 'result.log'

@@ -1,0 +1,4 @@
+test_function,function,input,output
+testXuatChuoiNhiPhan,xuatChuoiNhiPhan,-10,-1
+testLaPalindrome,laPalindrome,-100,FALSE
+testLaSoNguyenTo,laSoNguyenTo,19,TRUE
